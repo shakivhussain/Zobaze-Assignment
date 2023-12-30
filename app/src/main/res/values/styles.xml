@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HeadingBold_18">
+        <item name="android:textSize">@dimen/textSize18</item>
+        <item name="singleLine">true</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vibrantOrangeLight</item>
+    </style>
+
+    <style name="HeadingBold_16">
+        <item name="android:textSize">@dimen/textSize16</item>
+        <item name="singleLine">true</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/light_black</item>
+    </style>
+
+    <style name="HeadingBold_14">
+        <item name="android:textSize">@dimen/textSize14</item>
+        <item name="singleLine">true</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/light_black</item>
+    </style>
+
+    <style name="SubHeading_14">
+        <item name="android:textSize">@dimen/textSize14</item>
+        <item name="singleLine">true</item>
+        <item name="android:lineSpacingExtra">4sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/lightSilverSubtitle</item>
+    </style>
+
+    <style name="SubHeading_12">
+        <item name="android:textSize">@dimen/textSize12</item>
+        <item name="singleLine">true</item>
+        <item name="android:lineSpacingExtra">4sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/lightSilverSubtitle</item>
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zobaze Assignment</string>
+    <string name="university_website">University Website</string>
+    <string name="university_details">University Details</string>
+    <string name="none">None</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="enter_country_name">Enter Country Name</string>
+    <string name="nothing_to_show">Nothing to show!</string>
+</resources>

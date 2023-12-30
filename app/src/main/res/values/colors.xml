@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="yellow_dark">#D5832B</color>
+    <color name="light_black">#5C5A5A</color>
+    <color name="lightSilverSubtitle">#aaaaaa</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fade_white">#E0DFDF</color>
+    <color name="electricPurpleLight">#d37dfb</color>
+    <color name="vibrantOrangeLight">#ffd04d</color>
+    <color name="brightSkyBlueLight">#5dc7ff</color>
+    <color name="error">#FF1313</color>
+
+</resources>
